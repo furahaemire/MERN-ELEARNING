@@ -58,7 +58,7 @@ function CrudAdd(props) {
 					<input
 						name="phone"
 						type="tel"
-						pattern="(251)-[0-9]{3}-[0-9]{6}"
+                                        
 						required
 						value={crud.phone}
 						onChange={handleChange}

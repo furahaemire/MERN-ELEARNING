@@ -28,6 +28,7 @@ function CrudGridView() {
 				</p>
 			</h2>
 			<hr />
+			
 			<div>
 				<div className="d-flex flex-wrap">
 					{cruds.map((crud) => {
